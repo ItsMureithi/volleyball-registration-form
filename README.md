@@ -1,25 +1,24 @@
 # 🏐 Grade Volleyball Registration Form 🏐
 
-> *"A simple and fun form built from scratch by me — Solomon — based on a template I found online!"*
+> *"A simple and fun form built from scratch by me Solomon @DevDataDoc based on a template I found online!"*
 
 ---
 
 ## 💥 What Inspired Me to Build This
 
-After successfully uploading my first ever project on GitHub, I woke up super motivated to keep the momentum going! 🚀  
+After successfully uploading my first ever project on GitHub, I woke up super motivated to keep the momentum going Inshallah! 🚀  
 I searched online for a “form builder template” and found a nice layout that caught my eye. I thought:  
 **“Wait! I can build this myself from scratch!”**  
 
-And just like that — with some creativity, commitment, and research this  <strong> Volleyball Registration Form </strong>  was born!
+And just like that  with some creativity, commitment, and research this  <strong> Volleyball Registration Form </strong>  was born!
 
-It’s a mix of my **HTML**, **CSS**, and **JavaScript** learning journey — and proof that hands-on, project-based learning is super fun and effective!
+It’s a mix of my **HTML**, **CSS**, and **JavaScript** learning journey  and proof that hands-on, project-based learning is super fun and effective!
 
 ---
-
 ## 👶 What is this project?
 
 This is a beautiful and super responsive **Volleyball Registration Form** for kids in grades 4–6 who want to join a volleyball event.  
-It collects their details like name, age, school, grade, shirt size, and emergency contact — all in a clean, easy-to-use layout.
+It collects their details like name, age, school, grade, shirt size, and emergency contact  all in a clean, easy-to-use layout.
 
 ---
 
@@ -27,8 +26,8 @@ It collects their details like name, age, school, grade, shirt size, and emergen
 
 - ✅ Accepts participant and parent details.
 - ✅ Lets you choose grade and shirt size.
-- ✅ Has a fun **Submit button** that shows a loading message, then alerts you that the feature is coming soon.
-- ✅ The button changes color after clicking — and stays changed!
+- ✅ Has a fun **Submit button** that shows a loading message, then alerts you.
+- ✅ The button changes color after clicking and stays changed!
 - ✅ The layout looks great on **both big screens and mobile phones**.
 
 ---
@@ -64,4 +63,5 @@ The form works beautifully on small screens (like phones) and large screens (lik
 
 *(Add a screenshot of the form here using this syntax)*  
 ```markdown
-![Form Preview](path/to/your/screenshot.png)
+![Form Preview] https://github.com/ItsMureithi/volleyball-registration-form/blob/main/Images/Ui1.png
+
