@@ -4,7 +4,7 @@
 
 ---
 
-## 💥 What Inspired Me to Build This
+## 💥 What Inspired Me to Build This Project
 
 After successfully uploading my first ever project on GitHub, I woke up super motivated to keep the momentum going Inshallah! 🚀  
 I searched online for a “form builder template” and found a nice layout that caught my eye. I thought:  
@@ -15,7 +15,7 @@ And just like that  with some creativity, commitment, and research this  <strong
 It’s a mix of my **HTML**, **CSS**, and **JavaScript** learning journey  and proof that hands-on, project-based learning is super fun and effective!
 
 ---
-## 👶 What is this project?
+## 👶 What is this project about?
 
 This is a beautiful and super responsive **Volleyball Registration Form** for kids in grades 4–6 who want to join a volleyball event.  
 It collects their details like name, age, school, grade, shirt size, and emergency contact  all in a clean, easy-to-use layout.
@@ -62,5 +62,5 @@ The form works beautifully on small screens (like phones) and large screens (lik
 ## 📷 Screenshots
 
 ```markdown
-![Form Preview]https://github.com/ItsMureithi/volleyball-registration-form/blob/main/Images/Ui1.png
+![Form Preview](https://github.com/ItsMureithi/volleyball-registration-form/blob/main/Images/Ui1.png)
 
