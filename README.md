@@ -61,8 +61,7 @@ The form works beautifully on small screens (like phones) and large screens (lik
 
 ## 📷 Screenshots
 
-```markdown
-![Form Preview](https://github.com/ItsMureithi/volleyball-registration-form/blob/main/Images/Ui1.png) <img width="993" height="638" alt="Ui4" src="https://github.com/user-attachments/assets/f1b3b9c2-4725-4a90-b06c-135fd53ed336" />
+<img width="993" height="638" alt="Ui4" src="https://github.com/user-attachments/assets/f1b3b9c2-4725-4a90-b06c-135fd53ed336" />
 <img width="1036" height="610" alt="Ui3" src="https://github.com/user-attachments/assets/426e79cd-8aa6-4bcf-9004-8e7df2bb5221" />
 <img width="902" height="596" alt="Ui2" src="https://github.com/user-attachments/assets/cca1b760-de51-45cb-9866-280a4d105c59" />
 <img width="999" height="653" alt="Ui1" src="https://github.com/user-attachments/assets/7ffc0143-beb7-4447-abc1-11ccb883e56d" />
