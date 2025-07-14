@@ -67,3 +67,10 @@ The form works beautifully on small screens (like phones) and large screens (lik
 <img width="993" height="638" alt="Ui4" src="https://github.com/user-attachments/assets/f1b3b9c2-4725-4a90-b06c-135fd53ed336" />
 
 
+## ❤️ Special Thanks ❤️ ❤️ ❤️ 
+
+Big thanks to:
+
+- Google (for helping me find the form inspiration)
+- My dedication 😄
+- Github (for granting me a chance to showcase my works)
