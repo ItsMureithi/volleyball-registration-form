@@ -71,7 +71,7 @@ The form works beautifully on small screens (like phones) and large screens (lik
 
 I’d like to sincerely thank:
 
-- **Allah** – for giving me the strength, inspiration, and energy to keep pushing forward. *Mashallah* 🙏  
-- **Google** – for guiding me to the perfect form inspiration and resources.  
-- **My Determination** – for showing up, staying focused, and finishing this project strong 💪  
-- **GitHub** – for providing a platform where I can showcase my learning journey and growing skills to the world. 
+- ***Allah***: For giving me the strength, inspiration, and energy to keep pushing forward. <strong> *Mashallah* 🙏 </strong>  
+- **Google**: For guiding me to the perfect form inspiration and resources.  
+- **My Determination**: For showing up, staying focused, and finishing this project strong 💪  
+- **GitHub**: For providing a platform where I can showcase my learning journey and growing skills to the world. 
