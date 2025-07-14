@@ -1,0 +1,132 @@
+
+/* Reset */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Styling the body */
+body {
+  background-color: #4060c0;
+}
+
+/* Styling the container */
+.container{
+    margin: 100px auto;
+    width: 50%;
+}
+
+
+/* styling the form */
+.container> form{
+    display: grid;
+    background-color: #fdfdfd;
+    padding:20px;
+    font-weight: 500;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+h1:hover{
+    color: #FFBF00;
+    cursor: pointer;
+}
+
+form label{
+margin-top: 10px;
+}
+
+input[type], select {
+    width: 100%;
+    padding: 15px;
+    margin: 8px 0;
+    border: 1px solid #dddfe2;
+    border-radius: 4px;
+    outline: none;
+    transition:box-shadow 0.3s ease;
+}
+
+input[type]:hover {
+    border-color: #1877f2;
+}
+
+input[type]:focus{
+    border-color: #4060c0;
+    box-shadow:0 0 0 3px rgba(24, 119, 242, 0.2);
+}
+
+/* styling the button */
+
+button {
+    color: #000;
+    text-align: center;
+    padding: 16px;
+    background: #FFB343;
+    border-radius: 10px;
+    border: none;
+    font-weight:bold;
+    margin-top: 40px;
+    transition: all 0.3s ease-in-out;
+
+}
+
+
+
+button:hover{
+    background-color: #FFBF00;
+}
+
+
+/* Media queries for Tablets */
+
+@media screen and (max-width:768px){
+    body {
+    background-color: #6080c0;
+  }
+
+  .container{
+    width: 90%;
+    margin: 50px auto;
+  }
+   
+    h1{
+        font-size:26px;
+        color: red;
+    }
+
+
+    input[type], select {
+        padding: 12px;
+    }
+
+    button {
+        padding: 14px;
+    }
+    
+}
+
+
+/* Media Queries for  mobile devices */
+
+
+@media screen and (max-width:480px){
+    h1{
+        font-size: 20px;
+    }
+
+
+    button {
+        padding: 12px;
+        font-size: 14px;
+    }
+    
+}
