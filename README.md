@@ -61,7 +61,6 @@ The form works beautifully on small screens (like phones) and large screens (lik
 
 ## 📷 Screenshots
 
-*(Add a screenshot of the form here using this syntax)*  
 ```markdown
-![Form Preview] https://github.com/ItsMureithi/volleyball-registration-form/blob/main/Images/Ui1.png
+![Form Preview]https://github.com/ItsMureithi/volleyball-registration-form/blob/main/Images/Ui1.png
 
