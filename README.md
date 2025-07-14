@@ -67,14 +67,11 @@ The form works beautifully on small screens (like phones) and large screens (lik
 <img width="993" height="638" alt="Ui4" src="https://github.com/user-attachments/assets/f1b3b9c2-4725-4a90-b06c-135fd53ed336" />
 
 
-## ❤️ Special Thanks ❤️ ❤️ ❤️ 
+## ❤️ Special Thanks & Gratitude ❤️
 
-Big thanks to:
+I’d like to sincerely thank:
 
-- Google (for helping me find the form inspiration)
-- My dedication 😄
-- Github (for granting me a chance to showcase my works)
-
-- ![Alt text]("https://github.com/user-attachments/assets/f1b3b9c2-4725-4a90-b06c-135fd53ed336")
-
- - ![Alt text]("https://github.com/user-attachments/assets/7ffc0143-beb7-4447-abc1-11ccb883e56d")
+- **Allah** – for giving me the strength, inspiration, and energy to keep pushing forward. *Mashallah* 🙏  
+- **Google** – for guiding me to the perfect form inspiration and resources.  
+- **My Determination** – for showing up, staying focused, and finishing this project strong 💪  
+- **GitHub** – for providing a platform where I can showcase my learning journey and growing skills to the world. 
