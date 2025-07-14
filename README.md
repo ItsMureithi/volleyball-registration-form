@@ -55,7 +55,7 @@ The form works beautifully on small screens (like phones) and large screens (lik
 2. Fill in the form fields.
 3. Click the **Submit Form** button.
 4. See a short loading message.
-5. Get a fun alert message — and enjoy the new button color!
+5. Get a fun alert message and enjoy the new button color!
 
 ---
 
